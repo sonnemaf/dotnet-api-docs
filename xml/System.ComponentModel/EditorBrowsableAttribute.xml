@@ -55,7 +55,7 @@
  In Visual C#, you can control when advanced properties appear in IntelliSense and the Properties Window with the **Hide Advanced Members** setting under **Tools &#124; Options &#124; Text Editor &#124; C#**. The corresponding <xref:System.ComponentModel.EditorBrowsableState> is <xref:System.ComponentModel.EditorBrowsableState.Advanced>.  
   
 > [!NOTE]
->  In Visual C#, <xref:System.ComponentModel.EditorBrowsableAttribute> does not suppress members from a class in the same assembly.  
+>  In Visual C#, <xref:System.ComponentModel.EditorBrowsableAttribute> does not suppress members from a class in the same solution.  
   
    
   
